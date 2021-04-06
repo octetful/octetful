@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @octetful
-- 👀 I’m interested in distributed apps, graph databases, and domain modelling
+- 👀 I’m interested in distributed apps, kotlin, graph databases, and DDD practices
 - 🌱 I’m currently learning neo4j, kafka streams, and helm charts
 - 💞️ I’m looking to collaborate on my pet project [Karmayoga](https://github.com/octetful/karmayoga) and [Karmayoga Web](https://github.com/octetful/karmayoga-web/)
 - 📫 How to reach me ![Twitter Follow](https://img.shields.io/twitter/follow/octetful?style=social)
